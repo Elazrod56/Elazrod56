@@ -32,7 +32,7 @@ I'm the guy my friends or family go to when they have issues with their PCs, lap
 <h1>Equipment</h1>
 <h3>Laptop : HP Pavilion 15"</h3>
 <ul>
- <li>Processor : AMD Ryzen 5 3500U - 2.1 to 3GHz - 4 cores 8 threads</li>
+ <li>Processor : AMD Ryzen 5 3500U - 2.1 to 3.7GHz - 4 cores 8 threads</li>
  <li>Graphics : AMD Radeon Vega 8 Graphics</li>
  <li>RAM : 8GB DDR4 (will be upgraded to 16GB soon)</li>
 </ul>
@@ -41,11 +41,11 @@ I'm the guy my friends or family go to when they have issues with their PCs, lap
 Visual Studio Code
 
 <h3>OS</h3>
-Windows 10 with WSL2 Terminal (Ubuntu)
+Windows 10 with WSL2 (Ubuntu)
 
 Linux VMs (Kali - Pop OS)
 
-I know Linux and the Bash/Zsh shell
+I know Linux and the Bash shell
 
 <h3>How do I learn ?</h3>
 In school, I attend 4 hours of advanced IT class per week, but it is not enough for me...
