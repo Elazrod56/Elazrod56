@@ -11,24 +11,18 @@
 <h1>Skills :</h1>
 
 <h3>Programming</h3>
--I can code in Python, and create a very basic front end web page with HTML and CSS
+-I can code in Python, and create a very basic front end web page with HTML, CSS and JS
 
 
--ATM, I'm learning JavaScript for frontend combined with NodeJS and Python for backend. Also learning C
+-ATM, I'm still learning JavaScript for frontend, and Python for backend.
 
 
--In the future, I will learn C++, Rust, PHP and SQL (maybe more)
+-In the future, I will learn C, C++, Rust, PHP and SQL (maybe more)
 
-<h3>Cybersecurity / Hacking</h3>
+<h3>Cybersecurity</h3>
 
-I learn the basics of cybersecurity and ethical hacking to have a better understanding of computers, systems, networks and to protect mine
+I learn the basics of cybersecurity to have a better understanding of computers, systems, networks and to protect mine
 
-<h3>Hardware</h3>
-
-I know how a computer is made from silicium to the interface and I deeply understand its functioning
-
-
-I'm the guy my friends or family go to when they have issues with their PCs, laptops, smartphones, printers etc...
 <h1>Equipment</h1>
 <h3>Laptop : HP Pavilion 15"</h3>
 <ul>
@@ -41,7 +35,7 @@ I'm the guy my friends or family go to when they have issues with their PCs, lap
 Visual Studio Code
 
 <h3>OS</h3>
-Windows 10 with WSL2 (Ubuntu)
+Windows 10 with WSL2
 
 Linux VMs (Kali - Pop OS)
 
