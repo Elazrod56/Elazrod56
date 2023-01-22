@@ -8,4 +8,4 @@
 - Languages I speak (Programming) : Python, HTML, CSS, JS
 
 # Contact
--Discord : Elazrod56#7500
+- Discord : Elazrod56#7500
