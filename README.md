@@ -1,12 +1,11 @@
 # Elazrod56
-- Name : Thomas
-- Nationality : French
-- Goal : Backend web developer 
+
+French IT passionate
 
 # Skills
-- Languages I speak (Human) : French, English, Italian, Spanish
-- Languages I speak (Programming) : Python, Rust, HTML, CSS and JavaScript 
+- Languages I speak : French, English, Italian and Spanish
+- Programming languages I speak : Rust, C and Python
 
 # Contact
-- Discord : Elazrod56#7500
+- Discord : elazrod#7500
 - Twitter : @elazrod56
